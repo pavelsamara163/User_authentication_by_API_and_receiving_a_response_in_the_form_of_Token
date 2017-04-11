@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.syatkinpavel.mydoctor.Main3Activity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/mainfonlaytwo"
+        android:id="@+id/imageView5"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Пропустить"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLogActivity"
+        android:background="@color/cardview_shadow_end_color"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="128dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="143dp"
+        android:id="@+id/btn3Activ"
+        android:background="@drawable/btnmain" />
+
+    <TextView
+        android:text="Далее"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView20"
+        android:textSize="18sp"
+        android:textColor="@color/cardview_light_background"
+        android:layout_alignBaseline="@+id/btnLogActivity"
+        android:layout_alignBottom="@+id/btnLogActivity"
+        android:layout_alignStart="@+id/btn3Activ"
+        android:layout_marginStart="47dp" />
+
+
+</RelativeLayout>

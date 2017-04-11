@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main5"
+    tools:context="com.syatkinpavel.mydoctor.Main4Activity">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLogAct"
+        android:background="@drawable/btnmain"
+        android:layout_above="@+id/btnLogactiv2"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Пропустить"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLogactiv2"
+        android:background="@color/cardview_shadow_end_color"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:text="Далее"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnLogactiv2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:id="@+id/textView21"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="@color/cardview_light_background" />
+
+
+</RelativeLayout>

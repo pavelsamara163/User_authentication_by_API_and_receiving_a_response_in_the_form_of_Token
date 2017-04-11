@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.syatkinpavel.mydoctor">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="DoctorHome"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:id="@+id/screendoc"
+            android:name=".DoctorActivity" />
+        <activity
+            android:id="@+id/imageView4"
+            android:name=".PatientActivity" />
+        <activity
+            android:id="@+id/screenWritingRec"
+            android:name=".Writing_recipe"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:id="@+id/activity_search"
+            android:name=".SearchActivity" />
+        <activity
+            android:id="@+id/activity_login"
+            android:name=".LoginActivity" />
+        <activity
+            android:id="@+id/activity_second"
+            android:name=".SecondActivity" />
+        <activity
+            android:id="@+id/content_navigation"
+            android:name=".UserInfo" />
+        <activity
+            android:id="@+id/activity_main2"
+            android:name=".Main2Activity" />
+        <activity
+            android:id="@+id/activity_main3"
+            android:name=".Main3Activity" />
+        <activity
+            android:id="@+id/activity_main4"
+            android:name=".Main4Activity" />
+        <activity
+            android:name=".NavigationActiv"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+
+    </application>
+
+</manifest>

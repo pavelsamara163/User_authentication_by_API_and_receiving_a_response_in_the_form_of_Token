@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+   >
+
+    <TextView
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:text="Введите номер телефона"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textAlignment="center"
+        android:textStyle="normal|bold"
+        android:textSize="18sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="64dp" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="79990441142"
+        android:ems="10"
+        android:textColor="@android:color/black"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Пароль"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="18sp"
+        android:layout_below="@+id/editText1"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+    android:id="@+id/editText2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:inputType="textPassword"
+    android:text="123456"
+    android:ems="10"
+    android:textColor="@android:color/black"
+        android:textAlignment="center"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true">
+
+    <requestFocus />
+</EditText>
+
+    <ImageButton
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btnmain"
+        android:textAlignment="center"
+
+        android:layout_below="@+id/editText2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Войти"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView35"
+        android:textSize="18sp"
+        android:textColor="@color/cardview_light_background"
+        android:layout_marginTop="14dp"
+        android:textAlignment="center"
+        android:layout_below="@+id/editText2"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

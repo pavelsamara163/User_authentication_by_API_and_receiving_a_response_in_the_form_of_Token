@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.syatkinpavel.mydoctor.UserInfo">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:text="first_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/first_name_user"
+            android:textSize="18sp" />
+
+        <TextView
+            android:text="last_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/last_name_user"
+            android:textSize="18sp" />
+
+        <TextView
+            android:text="balance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/balance_user"
+            android:textSize="18sp" />
+
+        <TextView
+            android:text="recipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recipe_user"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

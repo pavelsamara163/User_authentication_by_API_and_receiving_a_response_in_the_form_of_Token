@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main23"
+    android:scaleType="fitStart"
+    tools:context="com.syatkinpavel.mydoctor.Main2Activity">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnm2A"
+        android:elevation="0dp"
+        android:background="@drawable/btnmain"
+        android:textDirection="inherit"
+        android:layout_above="@+id/btnLOgActiv"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Далее"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:id="@+id/textView8"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textColor="@color/cardview_light_background"
+        android:layout_alignTop="@+id/btnm2A"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Пропустить"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLOgActiv"
+        android:background="@color/cardview_shadow_end_color"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

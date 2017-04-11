@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_6a29574dfc0e3813a1777f9d52d4c9e1bebd070b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\libs\GenAsync.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_11e52b9258e94b26019ed4993d8f0fc177989b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_8d5c063e589928bc8402dddc384e1d02599d7fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Павел\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_841ecd0ef30766b705492ff5db53e2e659a1a700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7bf4aebdf9ae6ad0d04197a6cc59856f077e00b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c3a2b0baa48c2e36480e9a32b45dc4c78e9dc930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_df3a87d24945d78218b9da893910549e933ada92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\libs\MD5Simply.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="46b0ec4fa70168d8020408d330cac47d1e95926b">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\2\MD5Simply_544f80f328687cb56e13fe08bc176da85c83325b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e2bc175530f58f19054002176d8d48087b9b81dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_63886c20cf79e22e77551244ac76e01099ab37e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_dfad7659718ad2f8c5e2585cf99a1e5b23310cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_9cef3c38c258cd0ec8c553b8c045fade6f3c0987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_ac9a181aaf0d8d9244fa28f7327b5eab99d36cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_59c5f117710a7df167778951d04ac7cccfca05b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta3_f07b14da815322b3bcefcb1dc9a18c2121fa7a67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6c563bb4bb93136ca0deedf105086561c5a87e17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_405176eb8ce55191db8ef2b1a5ad0e9d7d4d7329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_62a03b0083b7672f42c6d0ec569c08688e07adae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_b1e3121e2755ca3217f9e0f04e97b241b87981e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_682b141a7df5be52bbd2eb9a762a8aa62a445d09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_b1dd123c581c901c427b85b7044a44c96a164dec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e43ee98b26fff0576ec9f980cccdc9295c713ccf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_bb2ae6faa3810490228d97f7eca7c604d5c017b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ed6430238e42592525c61ee865c1a57d9e581742">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f93f7f7a898e32d4a29a8dec9eba0dd6bf83141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_d4e56018749d420b3000b61e711551abb169ed06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_481e2c618d8be1a3b6f3e43f439f2e9498fa4f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_36e2a0b14543e20895eed44f669e985cc262d8ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.0.0_1251e732e3841a97900d8785c5f91abbb2181e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_2b94f82d52f87c62be9055ab4baf7bd250447d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_ece82aefdc16dd2970f6f991c9cedd37dca12072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_394234763cb55511eb6419beed5eb4fdff02302c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e216bcfa37aed9e0da4e3568fe7b990d731ae181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eb59227153220a736c6f4054f24d5bd7c97e7c41">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01113ae9c79e58d94442536aca694a1237dd20ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_09b107c21b8283e7ae2e6c788be2c9665b7b6449\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyDoctor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\MyDoctor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_e1e96f15b96455f2e8393cf68f4504537a5a4561\classes.dex" />
+    </item>
+
+</items>
